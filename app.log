@@ -1,0 +1,11 @@
+2025-09-04 19:11:42,403 - __main__ - WARNING - Input path does not exist: datasample.pdf
+2025-09-04 19:11:42,404 - __main__ - ERROR - No valid input files found
+2025-09-04 19:15:16,352 - src.models.visual_detector - INFO - Loaded YOLOv8 model on cpu
+2025-09-04 19:15:16,352 - src.models.visual_detector - INFO - Loaded YOLOv8 model on cpu
+2025-09-04 19:15:16,354 - __main__ - INFO - Processing: data\sample_financial.pdf
+2025-09-04 19:15:16,355 - src.processing.document_processor - INFO - Processing PDF: data\sample_financial.pdf
+2025-09-04 19:15:16,355 - src.processing.document_processor - INFO - Processing PDF: data\sample_financial.pdf
+2025-09-04 19:15:19,332 - src.processing.pdf_handler - ERROR - Error converting PDF to images: Unable to get page count. Is poppler installed and in PATH?
+2025-09-04 19:15:19,332 - src.processing.pdf_handler - ERROR - Error converting PDF to images: Unable to get page count. Is poppler installed and in PATH?
+2025-09-04 19:15:19,336 - __main__ - ERROR - Error processing data\sample_financial.pdf: Object of type float32 is not JSON serializable
+2025-09-04 19:15:19,337 - __main__ - INFO - Processing complete. Processed 0 files.
