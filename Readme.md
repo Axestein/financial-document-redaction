@@ -1,7 +1,5 @@
 # 🛡️ Guardian: AI-Powered Financial Document Redaction
 
-![AI Redacting Document](https://i.imgur.com/2c5a04x.gif)
-
 Guardian is an intelligent, AI-driven solution designed to automatically detect and redact sensitive Personally Identifiable Information (PII) from financial documents, ensuring data privacy and regulatory compliance for the banking and fintech industries.
 
 ---
@@ -72,3 +70,4 @@ This project is brought to you by **Devengineers**:
 * Ishant Singh
 * Naveen Kumar Mohanarajan
 * Sameer Yadav
+
