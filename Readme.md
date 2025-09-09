@@ -1,16 +1,23 @@
-# 🛡️ Guardian: AI-Powered Financial Document Redaction
+# AI-Powered Financial Document Redaction
 
 Guardian is an intelligent, AI-driven solution designed to automatically detect and redact sensitive Personally Identifiable Information (PII) from financial documents, ensuring data privacy and regulatory compliance for the banking and fintech industries.
 
+## Frontend Video Demo
+
+Check out the frontend demo of the project in action:
+
+[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/d51ae0567ac443008d8eba8c0dcb737a-with-play.gif)](https://www.loom.com/share/d51ae0567ac443008d8eba8c0dcb737a)
+
+
 ---
 
-## 🎯 The Problem
+## The Problem
 
 Financial documents like loan applications, KYC forms, and invoices are filled with sensitive PII (account numbers, SSNs, signatures). Sharing these documents across departments or with partners creates a significant risk of data leaks, while manual redaction is slow and prone to human error.
 
 ---
 
-## ✨ Our Solution
+## Our Solution
 
 Guardian provides a robust, automated pipeline to sanitize your documents securely. It intelligently identifies and scrubs sensitive information from a variety of formats, preserving the integrity of the original document structure.
 
@@ -41,12 +48,12 @@ Our solution is powered by a sophisticated suite of AI/ML models:
 
 ---
 
-## 🧑‍💻 User Experience
+## User Experience
 
 Guardian is designed for everyone, from compliance officers to developers.
 
-* **🖥️ Drag-and-Drop Web App**: An intuitive interface for non-technical users to upload files, preview redactions, and download the sanitized documents.
-* **⚙️ CLI Version**: A powerful command-line interface for developers to perform batch processing, perfect for integrating into bank backend systems.
+* **🖥Drag-and-Drop Web App**: An intuitive interface for non-technical users to upload files, preview redactions, and download the sanitized documents.
+* **⚙️CLI Version**: A powerful command-line interface for developers to perform batch processing, perfect for integrating into bank backend systems.
 
 ### Input & Output:
 
@@ -55,7 +62,7 @@ Guardian is designed for everyone, from compliance officers to developers.
 
 ---
 
-## 🌐 Compliance & Scalability
+## Compliance & Scalability
 
 * **GDPR/CCPA Ready**: Generates detailed audit logs to prove PII removal, ensuring you meet regulatory requirements.
 * **Accessibility**: Features multilingual support and a low-resource mode using CPU-efficient models like `DistilBERT`.
@@ -63,11 +70,12 @@ Guardian is designed for everyone, from compliance officers to developers.
 
 ---
 
-## 👥 The Team: Devengineers
+## The Team: Devengineers
 
 This project is brought to you by **Devengineers**:
 * Aditya Kumar Singh (Leader)
 * Ishant Singh
 * Naveen Kumar Mohanarajan
 * Sameer Yadav
+
 
