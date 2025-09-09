@@ -4,7 +4,7 @@ Guardian is an intelligent, AI-driven solution designed to automatically detect 
 
 ## Frontend Video Demo
 
-Check out the frontend demo of the project in action:
+Check out the frontend demo of the project in action(click on the Img):
 
 [![Watch the demo](https://github.com/user-attachments/assets/2cb52f9a-d658-4ed7-a5d4-c903e57aa156)](https://www.loom.com/share/d51ae0567ac443008d8eba8c0dcb737a)
 
@@ -76,6 +76,7 @@ This project is brought to you by **Devengineers**:
 * Ishant Singh
 * Naveen Kumar Mohanarajan
 * Sameer Yadav
+
 
 
 
