@@ -18,20 +18,22 @@ Check out the **Model Accuracy** of the project in the below images and video:
 ![Accuracy Graph 1](https://github.com/user-attachments/assets/cd263a35-1ad1-47a0-942b-c6c8c599f91f)
 ![Accuracy Graph 2](https://github.com/user-attachments/assets/0f5b7c24-4751-48d6-bc6e-143078494c84)
 
-### Demo Video
+## Demo Models
 
-BERT NER Model :
+### 1. **BERT NER Model**
+This model is used for Named Entity Recognition (NER) based on BERT architecture. The model identifies and classifies named entities (such as persons, locations, organizations, etc.) from the text.
 
-https://github.com/user-attachments/assets/2c3db446-4ac0-4570-aea2-27f59a5c95af
+[BERT NER Model](https://github.com/user-attachments/assets/2c3db446-4ac0-4570-aea2-27f59a5c95af)
 
-BERT FR_NFR Model :
+### 2. **BERT FR_NFR Model**
+This model uses BERT to classify text into French (FR) and Non-French (NFR) categories. It can be used for language identification in text documents.
 
-https://github.com/user-attachments/assets/85960e26-1ef5-42f3-890a-ba5e41a2257b
+[BERT FR_NFR Model](https://github.com/user-attachments/assets/85960e26-1ef5-42f3-890a-ba5e41a2257b)
 
-pytesseract OCR Extraction Model :
+### 3. **Pytesseract OCR Extraction Model**
+This model utilizes pytesseract to extract text from images (Optical Character Recognition). It is ideal for digitizing printed or handwritten content.
 
-https://github.com/user-attachments/assets/f2305bda-3845-484f-9d93-052f8dd9aa7f
-
+[Pytesseract OCR Extraction Model](https://github.com/user-attachments/assets/f2305bda-3845-484f-9d93-052f8dd9aa7f)
 
 
 ---
@@ -102,6 +104,7 @@ This project is brought to you by **Devengineers**:
 * Ishant Singh
 * Naveen Kumar Mohanarajan
 * Sameer Yadav
+
 
 
 
