@@ -10,6 +10,19 @@ Check out the frontend demo of the project in action(click on the Img):
 
 ---
 
+## Model Accuracy
+
+Check out the **Model Accuracy** of the project in the below images and video:
+
+### Accuracy Graphs
+![Accuracy Graph 1](https://github.com/user-attachments/assets/cd263a35-1ad1-47a0-942b-c6c8c599f91f)
+![Accuracy Graph 2](https://github.com/user-attachments/assets/0f5b7c24-4751-48d6-bc6e-143078494c84)
+
+### Demo Video
+[ Watch the Demo](https://github.com/user-attachments/assets/edfe3156-4e54-4f21-875f-b93865d5a766)
+
+---
+
 ## The Problem
 
 Financial documents like loan applications, KYC forms, and invoices are filled with sensitive PII (account numbers, SSNs, signatures). Sharing these documents across departments or with partners creates a significant risk of data leaks, while manual redaction is slow and prone to human error.
@@ -76,6 +89,7 @@ This project is brought to you by **Devengineers**:
 * Ishant Singh
 * Naveen Kumar Mohanarajan
 * Sameer Yadav
+
 
 
 
