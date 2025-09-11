@@ -19,7 +19,20 @@ Check out the **Model Accuracy** of the project in the below images and video:
 ![Accuracy Graph 2](https://github.com/user-attachments/assets/0f5b7c24-4751-48d6-bc6e-143078494c84)
 
 ### Demo Video
-[ Watch the Demo](https://github.com/user-attachments/assets/edfe3156-4e54-4f21-875f-b93865d5a766)
+
+BERT NER Model :
+
+https://github.com/user-attachments/assets/2c3db446-4ac0-4570-aea2-27f59a5c95af
+
+BERT FR_NFR Model :
+
+https://github.com/user-attachments/assets/85960e26-1ef5-42f3-890a-ba5e41a2257b
+
+pytesseract OCR Extraction Model :
+
+https://github.com/user-attachments/assets/f2305bda-3845-484f-9d93-052f8dd9aa7f
+
+
 
 ---
 
@@ -89,6 +102,7 @@ This project is brought to you by **Devengineers**:
 * Ishant Singh
 * Naveen Kumar Mohanarajan
 * Sameer Yadav
+
 
 
 
